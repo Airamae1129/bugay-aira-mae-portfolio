@@ -1,0 +1,237 @@
+{
+  "project_title": "Aira Mae — Cybersecurity Analyst & Full-Stack Web Developer Portfolio",
+  "persona_identity": "E1 Anti-AI Designer — Electric Cyber Punk & Subtle Feline Micro-Branding",
+  "target_audience": "Tech recruiters, SOC managers, security leads, corporate clients, web agency founders",
+  "archetype": "ARCHETYPE 7: ELECTRIC & NEON (Tactical Obsidian + Cyber Cyan & Neon Purple accents)",
+  "color_system": {
+    "background_dark": "#060810",
+    "surface_dark": "#0D111E",
+    "surface_card": "rgba(15, 23, 42, 0.75)",
+    "surface_glass": "rgba(13, 17, 30, 0.7)",
+    "border_glow": "rgba(56, 189, 248, 0.18)",
+    "accent_cyan": "#00F0FF",
+    "accent_purple": "#A855F7",
+    "accent_blue": "#3B82F6",
+    "accent_pink": "#EC4899",
+    "text_primary": "#F8FAFC",
+    "text_muted": "#94A3B8",
+    "text_dim": "#64748B",
+    "cat_paw_accent": "#F472B6"
+  },
+  "typography": {
+    "headline_font": "Outfit / Space Grotesk / Cabinet Grotesk (Display Sans with sharp modern cuts)",
+    "body_font": "Inter / Plus Jakarta Sans (Clean geometric readability)",
+    "code_font": "JetBrains Mono / Fira Code (For security logs, threat vectors, & dev tags)",
+    "hero_h1": "text-4xl sm:text-5xl lg:text-6xl font-black tracking-tight leading-[1.1]",
+    "section_h2": "text-2xl sm:text-3xl lg:text-4xl font-bold tracking-tight",
+    "card_h3": "text-lg sm:text-xl font-semibold",
+    "label_overline": "text-xs font-mono tracking-[0.25em] uppercase text-cyan-400"
+  },
+  "layout_and_bento": {
+    "spacing_scale": "p-4, p-6, p-8, p-12, py-20, py-28",
+    "grid_modes": {
+      "hero": "Full screen kinetic hero with video overlay, 3D particle canvas, and line-by-line reveal",
+      "tools_grid": "Categorized Bento Grid (9 Categories: SIEM, EDR/XDR, SOAR, Ticketing, Threat Intel, Network Monitoring, Firewall, Antivirus, eDiscovery/GRC)",
+      "timeline": "Vertical interactive node timeline with cyber pulse connectors",
+      "projects": "2-column responsive bento with live terminal preview cards & inspect modal"
+    }
+  },
+  "subtle_cat_branding": {
+    "concept": "Professional Cybersecurity aesthetic infused with subtle cat paw prints, playful status indicators ('SOC Guardian Mode: Active 🐾'), floating paw glow particles, and interactive paw hover micro-animations",
+    "elements": [
+      "Custom Paw Print SVG cursor follower or subtle trail",
+      "Footer signature: 'Built with precision, secured with vigilance & 🐾 by Aira Mae'",
+      "SOC Cat status badge in hero nav ('Terminal Online • Meow Intelligence active')",
+      "Interactive paw print stamp audio/visual feedback on CTAs"
+    ]
+  },
+  "hero_section_spec": {
+    "video_hero": "Layered HTML5 video container with SOC Cat video background, dark overlay (bg-black/50), interactive R3F/Three.js Cyber Grid or TSParticles overlay, kinetic line-by-line text reveal ('Defending Digital Assets • Building Resilient Web Architecture')",
+    "cta_buttons": [
+      "Primary: 'Explore Security Capabilities 🛡️' (Neon Glow button)",
+      "Secondary: 'View Web Projects 💻' (Glassmorphism outline)",
+      "Tertiary: 'Get CV / Contact 🐾' (Interactive Paw pulse)"
+    ]
+  },
+  "key_sections": [
+    {
+      "id": "hero",
+      "chapter_number": "01",
+      "title": "Kinetic Video & Cyber Terminal Hero"
+    },
+    {
+      "id": "marquee",
+      "chapter_number": "02",
+      "title": "Slow Editorial Security & Dev Ticker"
+    },
+    {
+      "id": "about",
+      "chapter_number": "03",
+      "title": "About Aira Mae & Interactive Dev Skill Cards"
+    },
+    {
+      "id": "experience",
+      "chapter_number": "04",
+      "title": "Professional Experience Timeline (5 Core Roles)"
+    },
+    {
+      "id": "tools",
+      "chapter_number": "05",
+      "title": "Categorized Security Tools & Technologies Arsenal"
+    },
+    {
+      "id": "dev_stack",
+      "chapter_number": "06",
+      "title": "Development & Engineering Tech Stack"
+    },
+    {
+      "id": "projects",
+      "chapter_number": "07",
+      "title": "Representative Projects & Interactive Security Labs"
+    },
+    {
+      "id": "contact",
+      "chapter_number": "08",
+      "title": "Encrypted Contact Terminal & Links"
+    }
+  ],
+  "security_tools_categories": [
+    { "category": "SIEM", "tools": ["Splunk Enterprise", "Microsoft Sentinel", "IBM QRadar", "Elastic SIEM"] },
+    { "category": "EDR / XDR", "tools": ["CrowdStrike Falcon", "SentinelOne Singularity", "Microsoft Defender for Endpoint"] },
+    { "category": "SOAR", "tools": ["Palo Alto Cortex XSOAR", "Splunk SOAR (Phantom)", "Shuffle"] },
+    { "category": "Ticketing & ITSM", "tools": ["Jira Service Management", "ServiceNow ITSM", "PagerDuty"] },
+    { "category": "Threat Intel & Hunting", "tools": ["VirusTotal Intelligence", "AlienVault OTX", "MISP", "Shodan"] },
+    { "category": "Network Monitoring", "tools": ["Wireshark", "Zeek", "Suricata", "Cisco Stealthwatch"] },
+    { "category": "Firewall & WAF", "tools": ["Palo Alto Networks Next-Gen", "Fortinet FortiGate", "Cloudflare WAF"] },
+    { "category": "Antivirus & Endpoint", "tools": ["Malwarebytes Enterprise", "Bitdefender GravityZone", "Sophos Intercept X"] },
+    { "category": "eDiscovery & GRC", "tools": ["NIST CSF 2.0", "ISO/IEC 27001", "Relativity", "OneTrust GRC"] }
+  ],
+  "dev_stack_skills": [
+    { "name": "Python", "level": "95%", "category": "Automation, Scripting, Security Tools & Scrapers" },
+    { "name": "React JS", "level": "90%", "category": "Interactive Dashboards, Portfolios & Web Apps" },
+    { "name": "JavaScript (ES6+)", "level": "92%", "category": "Frontend Logic, DOM Manipulation & APIs" },
+    { "name": "PHP", "level": "85%", "category": "Backend Services, Legacy Systems & Security Hardening" },
+    { "name": "HTML5 / CSS3", "level": "98%", "category": "Semantic Layouts, Glassmorphism & Animations" },
+    { "name": "Tailwind CSS", "level": "95%", "category": "Responsive Design & Modern Design Systems" }
+  ],
+  "experience_roles": [
+    {
+      "period": "2024 — Present",
+      "role": "Lead Cybersecurity Consultant & Threat Architect",
+      "company": "CyberShield Tech Solutions",
+      "description": "Architecting enterprise SOC workflows, orchestrating SOAR playbooks, and performing penetration tests and compliance audits for fintech client infrastructures."
+    },
+    {
+      "period": "2022 — 2024",
+      "role": "Senior SOC Analyst (Tier 2/3)",
+      "company": "Vanguard Defense Systems",
+      "description": "Monitored 10,000+ endpoints using CrowdStrike & Splunk SIEM. Led incident response procedures for 40+ zero-day containment operations."
+    },
+    {
+      "period": "2021 — 2022",
+      "role": "Cybersecurity Analyst & Threat Hunter",
+      "company": "Aegis Information Security",
+      "description": "Executed daily threat intel triage, vulnerability scanning, and eDiscovery investigations while deploying custom Python threat intelligence scripts."
+    },
+    {
+      "period": "2020 — 2021",
+      "role": "Full-Stack Web Developer & Security Specialist",
+      "company": "Nexus Web Innovations",
+      "description": "Developed secure React & PHP web platforms, implemented OWASP top 10 defenses, WAF rules, and automated vulnerability scanning pipelines."
+    },
+    {
+      "period": "2019 — 2020",
+      "role": "Junior Security Administrator",
+      "company": "Quantum Data Networks",
+      "description": "Managed firewall rulesets, anti-virus deployments, network access control lists (ACLs), and user access auditing for compliance."
+    }
+  ],
+  "representative_projects": [
+    {
+      "id": "proj-1",
+      "title": "FelineGuard SOC Dashboard & Threat Sentinel",
+      "tag": "SIEM & SOC Security Tool",
+      "tech": ["React JS", "Python", "Splunk API", "Tailwind"],
+      "description": "Real-time threat monitoring dashboard with live log streams, automated alert triage, and signature paw-print alert flags.",
+      "live_demo": true,
+      "metrics": "Reduced Mean-Time-To-Detect (MTTD) by 42%"
+    },
+    {
+      "id": "proj-2",
+      "title": "CyberPaw SOAR Playbook Automation Engine",
+      "tag": "Security Automation",
+      "tech": ["Python", "Cortex XSOAR", "REST API", "Docker"],
+      "description": "Automated incident response playbooks isolating infected endpoints via CrowdStrike EDR upon detecting suspicious lateral movement.",
+      "live_demo": true,
+      "metrics": "Automated 85% of tier 1 alert triages"
+    },
+    {
+      "id": "proj-3",
+      "title": "Aegis Vault — Zero-Trust Web Portal",
+      "tag": "Web Development & Pentesting",
+      "tech": ["React", "PHP", "Tailwind", "PostgreSQL"],
+      "description": "High-security client portal featuring hardware-backed MFA, encrypted document stores, and strict Content Security Policy (CSP).",
+      "live_demo": true,
+      "metrics": "100% OWASP Security Compliance Score"
+    },
+    {
+      "id": "proj-4",
+      "title": "PhishPaw Threat Intelligence Collector",
+      "tag": "Threat Intel & Python Scripting",
+      "tech": ["Python", "VirusTotal API", "AlienVault OTX", "FastAPI"],
+      "description": "OSINT collector scraping malicious hashes, domain reputations, and generating automated PDF threat intelligence briefings.",
+      "live_demo": true,
+      "metrics": "Processed over 50,000 IOC indicators daily"
+    }
+  ],
+  "image_urls": {
+    "aira_mae_portrait": "https://images.unsplash.com/photo-1573496800808-56566a492b63?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NTY2OTF8MHwxfHNlYXJjaHwyfHxhc2lhbiUyMHdvbWFuJTIwc29mdHdhcmUlMjBlbmdpbmVlciUyMGRldmVsb3BlciUyMHBvcnRyYWl0fGVufDB8fHx8MTc4Nzk2MTcwNnww&ixlib=rb-4.1.0&q=85",
+    "soc_monitor_background": "https://images.unsplash.com/photo-1708807472445-d33589e6b090?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjY2NzZ8MHwxfHNlYXJjaHwxfHxjeWJlciUyMHNlY3VyaXR5JTIwb3BlcmF0aW9ucyUyMGNlbnRlciUyMG1vbml0b3JzfGVufDB8fHx8MTc4Nzk2MTcwNnww&ixlib=rb-4.1.0&q=85",
+    "code_matrix_screen": "https://images.unsplash.com/photo-1767817099805-d79e31fb968c?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NTYxNzV8MHwxfHNlYXJjaHw0fHxjeWJlcnNlY3VyaXR5JTIwYW5hbHlzdCUyMGNvZGluZyUyMGRhcmslMjBiYWNrZ3JvdW5kfGVufDB8fHx8MTc4Nzk2MTcwMnww&ixlib=rb-4.1.0&q=85",
+    "security_status_dashboard": "https://images.unsplash.com/photo-1751448555253-f39c06e29d82?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjY2NzZ8MHwxfHNlYXJjaHwzfHxjeWJlciUyMHNlY3VyaXR5JTIwb3BlcmF0aW9ucyUyMGNlbnRlciUyMG1vbml0b3JzfGVufDB8fHx8MTc4Nzk2MTcwNnww&ixlib=rb-4.1.0&q=85"
+  },
+  "testing_and_accessibility": {
+    "data_testid_convention": "All interactive elements, buttons, nav links, filters, project items, inputs, and status indicators MUST include data-testid='...' in kebab-case format.",
+    "required_test_ids": [
+      "nav-brand-logo",
+      "nav-link-hero",
+      "nav-link-about",
+      "nav-link-experience",
+      "nav-link-tools",
+      "nav-link-devstack",
+      "nav-link-projects",
+      "nav-link-contact",
+      "hero-title",
+      "hero-cta-security",
+      "hero-cta-projects",
+      "hero-cta-contact",
+      "about-section",
+      "skill-card-php",
+      "skill-card-html",
+      "skill-card-css",
+      "skill-card-javascript",
+      "skill-card-react",
+      "skill-card-python",
+      "experience-timeline",
+      "tools-category-siem",
+      "tools-category-edr",
+      "tools-category-soar",
+      "devstack-grid",
+      "project-card-1",
+      "project-modal-open-1",
+      "contact-form-name-input",
+      "contact-form-email-input",
+      "contact-form-message-input",
+      "contact-form-submit-button",
+      "footer-cat-paw-logo"
+    ]
+  },
+  "instructions_to_main_agent": [
+    "1. Build a stunning dark-themed cyber portfolio with Lucide React / Phosphor icons and Lenis smooth scrolling.",
+    "2. Implement Framer Motion scroll reveals for each chapter number and section header.",
+    "3. Build the full-screen Hero video using an HTML5 video with layered animated cyber grid particles and cat paw subtle motifs.",
+    "4. Ensure all security tools categories (SIEM, EDR/XDR, SOAR, Ticketing, Threat Intel, Network Monitoring, Firewall, Antivirus, eDiscovery/GRC) are displayed in interactive bento cards with filter tabs.",
+    "5. Include working interactive features: skill progress cards, project inspection modals, terminal log generator, copyable contact info, and sonner toast on contact form submission.",
+    "6. Make sure all buttons and interactive elements have explicit data-testid attributes."
+  ]
+}
